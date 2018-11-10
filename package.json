@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marifer-Enriquez/BAMAZON.git"
+  },
+  "author": "Ma Fernanda Enriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marifer-Enriquez/BAMAZON/issues"
+  },
+  "homepage": "https://github.com/Marifer-Enriquez/BAMAZON#readme",
+  "dependencies": {
+    "cli-table3": "^0.5.1",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
