@@ -97,7 +97,7 @@ function newBuy() {
             },
             
         ]).then(function (answer) {
-            if(answer.default === true){
+            if(answer.newbuy === true){
                 console.log("Ok, here's the list of items")
                 start();
             }
