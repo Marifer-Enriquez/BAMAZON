@@ -19,4 +19,4 @@ The app prompts users with two messages.
 2. However, if your store _does_ have enough of the product, it will fulfill the customer's order.
 
 
-   
+***
